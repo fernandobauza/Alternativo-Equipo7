@@ -1,0 +1,32 @@
+html,body {
+	height:100%;
+	background:white;
+}
+
+header {
+		
+	display:block;
+	background:#d7e0e9;
+	padding:10px 0px;
+}
+
+section {
+	width: 79%;
+	float: left;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top:30px;
+	color: black;
+}
+
+
+footer {
+	position: relative;
+	margin-top: -50px;
+	height: 40px; 
+	padding:5px 0px;
+	clear: both;
+	background: #d7e0e9;
+	text-align: center;
+	color: black;
+}
